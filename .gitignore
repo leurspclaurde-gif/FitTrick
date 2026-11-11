@@ -9,3 +9,4 @@ tools/exercises_from_history.csv
 node_modules/
 __pycache__/
 .claude/settings.local.json
+docs/splash.png
