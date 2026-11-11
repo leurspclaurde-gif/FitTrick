@@ -1,0 +1,11 @@
+# Personal data — never publish (the repo is public for GitHub Pages)
+*.csv
+sheets/
+dev-data/
+/FitTrick StartupScreen.webp
+tools/exercises_from_history.csv
+
+# misc
+node_modules/
+__pycache__/
+.claude/settings.local.json
